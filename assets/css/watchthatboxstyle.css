@@ -1,0 +1,61 @@
+#button1 {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 10px 25px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+  }
+  
+  #button1 {background-color: #04AA6D;} /* Green */
+  #button1:hover {background-color: #46a049;}
+
+  #button2 {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 10px 25px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+  }
+  
+  #button2 {background-color: #0d61df;} /* Blue */
+  #button2:hover {background-color: #1b268f;}
+
+  #button6 {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 10px 25px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+  }
+  
+  #button6 {background-color: #540ec4;} /* Purple */
+  #button6:hover {background-color: #766c99;}
+
+  #button5 {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 10px 25px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+  }
+  
+  #button5 {background-color: #990606;} /* Red */
+  #button5:hover {background-color: #a04646;}
+
+  #button3 {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 10px 25px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+  }
+  
+  #button3 {background-color: #0a0a0a;} /* Black */
+  #button3:hover {background-color: #868686;}
+
+  #button4 {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 10px 25px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+  }
+  
+  #button4 {background-color: #e09810;} /* Orange */
+  #button4:hover {background-color: #a0782f;}
+
+
